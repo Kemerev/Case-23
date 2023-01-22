@@ -15,4 +15,4 @@ start = time.time()
 print("Значения после сортировки: ", Bubble_sorting1(a))
 end = time.time()
 print(end - start)
-# 0.001009225845336914
+# 0.0009996891021728516
